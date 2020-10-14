@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ajay Jadhav</h1>
+<h1 align="center">नमस्ते (Namaste) 👋, I'm Ajay Jadhav</h1>
 <h3 align="center">A passionate Self-Sovereign Identity Solutions Architect from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jadhavajay" alt="jadhavajay" /> </p>
