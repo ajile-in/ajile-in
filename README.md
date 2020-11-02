@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Hyperledger Aries, Indy, .NET Core, React, Vue, Deno**
 
-- 📫 How to reach me **- on Twitter: [@ajayjadhav](https://twitter.com/ajayjadhav)**
+- 📫 Reach me on Twitter: [@ajayjadhav](https://twitter.com/ajayjadhav) | LinkedIn: [jadhavajay](https://linkedin.com/in/jadhavajay)
 
 - ⚡ Fun fact **Yes, Chai over Coffee**
 
