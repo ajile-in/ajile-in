@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jadhavajay" alt="ajile-in" /> </p>
 
-- 🔭 I’m currently working on [Hyperledger](https://www.hyperledger.org) [Aries Framework JavaScript](https://github.com/hyperledger/aries-framework-javascript)
+- 🔭 I’m currently working on [CREDEBL](https://github.com/credebl), [Hyperledger](https://www.hyperledger.org) [Aries Framework JavaScript](https://github.com/hyperledger/aries-framework-javascript)
 
-- 🌱 I’m currently learning **Rust, [Deno](https://deno.land), [Astro](https://astro.build/)**
+- 🌱 I’m currently learning **[Rust](https://rust-lang.org), [Deno](https://deno.land)**
 
 - 💬 Ask me about **Hyperledger Aries, Indy, TypeScript, .NET Core, React, Deno**
 
