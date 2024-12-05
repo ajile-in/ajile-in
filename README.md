@@ -3,15 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jadhavajay" alt="ajile-in" /> </p>
 
-- 🔭 I’m currently working on [CREDEBL](https://github.com/credebl), [Hyperledger](https://www.hyperledger.org) [Aries Framework JavaScript](https://github.com/hyperledger/aries-framework-javascript)
+- 🔭 Building [CREDEBL](https://github.com/credebl), [Hyperledger](https://www.hyperledger.org) [Aries Framework JavaScript](https://github.com/hyperledger/aries-framework-javascript)
 
-- 🌱 I’m currently learning **[Rust](https://rust-lang.org), [Deno](https://deno.land)**
+- 🌱 Exploring **[Rust](https://rust-lang.org), [Deno](https://deno.land)**
 
-- 💬 Ask me about **Hyperledger Aries, Indy, TypeScript, .NET Core, React, Deno**
+- 💬 Ask me about **W3C DID, Verifiable Credentials, National ID, Digital Travel Credentials, Aries, Indy**
 
 - 📫 Reach me on Twitter: [@ajile_in](https://twitter.com/ajile_in) | LinkedIn: [@jadhavajay](https://linkedin.com/in/jadhavajay)
-
-- ⚡ Fun fact **Yes, Chai over Coffee**
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ajile-in&show_icons=true" alt="ajile-in" /></p>
